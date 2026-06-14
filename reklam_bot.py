@@ -9,7 +9,7 @@ IMAGE_FILE_ID = "AgACAgQAAxkBAAMEai4T-a20_uR-6NDKnxmjAitfAY0AAqsMaxsnnHFRhQsByue
 CAPTION = (
     "🔥 ÖDEME ELDEN NAKİT\n"
     "İsmim esmer\n\n"
-    "Yaşım 25\n\n\n\"
+    "Yasım 25\n\n\n\"
     " Boyum  160\n\n\n\n\"
     "Kilom  50\n\n\n\n\n\"
     "📲 WhatsApp: https://wa.me/90506069369"
