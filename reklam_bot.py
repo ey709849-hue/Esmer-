@@ -7,9 +7,13 @@ CHAT_IDS = os.environ["CHAT_IDS"].split(",")
 
 IMAGE_FILE_ID = "AgACAgQAAxkBAAMEai4T-a20_uR-6NDKnxmjAitfAY0AAqsMaxsnnHFRhQsByueTE0QBAAMCAAN5AAM8BA"
 CAPTION = (
-    "🔥 SNL - Sana Ne Lazım 🔥\n"
-    "İhtiyacın olan her şey burada!\n\n"
-    "📲 WhatsApp: https://wa.me/905016251490"
+    "🔥 manisa merkez 🔥\n"
+    "ödeme elden nakit\n\n"
+    "ismim esmer\n\n\n\"
+    "yasım 25\n\n\n\n\"
+    "boyum 160\n\n\n\n\n\"
+    "kilom 50\n\n\n\n\n\n\"
+    "📲 WhatsApp: https://wa.me/905056069369"
 )
 
 INTERVAL_SECONDS = 300  # 5 dakika
