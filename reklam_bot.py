@@ -5,10 +5,11 @@ import requests
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_IDS = os.environ["CHAT_IDS"].split(",")
 
+# Buraları kendin doldur:
 IMAGE_URL = "BURAYA_RESIM_LINKI"
 CAPTION = "BURAYA_ACIKLAMA_VE_WHATSAPP_LINKI"
 
-INTERVAL_SECONDS = 300
+INTERVAL_SECONDS = 300  # 5 dakika
 
 def send_ad():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
