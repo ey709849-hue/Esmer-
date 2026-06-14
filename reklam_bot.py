@@ -9,14 +9,14 @@ IMAGE_FILE_ID = "AgACAgQAAxkBAAMEai4T-a20_uR-6NDKnxmjAitfAY0AAqsMaxsnnHFRhQsByue
 CAPTION = (
     "🔥 manisa merkez 🔥\n"
     "ödeme elden nakit\n"
-    "ismim esmer\n"
-    "yasım 25\n"
-    "boyum 160\n"
-    "kilom 50\n\n"
+    "ismim💎 esmer\n"
+    "yasım💎25\n"
+    "boyum💎160\n"
+    "kilom💎50\n\n"
     "📲 WhatsApp: https://wa.me/905056069369"
 )
 
-INTERVAL_SECONDS = 300  # 5 dakika
+INTERVAL_SECONDS = 300  # 15 dakika
 
 def send_ad():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
